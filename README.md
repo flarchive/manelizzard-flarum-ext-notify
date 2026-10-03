@@ -2,13 +2,16 @@
 
 > **Read-only archive of released versions of manelizzard/flarum-ext-notify.** Not for installation: use [Packagist](https://packagist.org/packages/manelizzard/flarum-ext-notify) or the [upstream repository](https://github.com/manelizzard/flarum-notify).
 
-**0** versions archived · Latest: [`0.2.1`](https://github.com/flarchive/manelizzard-flarum-ext-notify/tree/archive/v0.2.1) · License: `MIT` · Flarum: `^0.1.0-beta.6`
+**4** versions archived · Latest: [`0.2.1`](https://github.com/flarchive/manelizzard-flarum-ext-notify/tree/archive/v0.2.1) · License: `MIT` · Flarum: `^0.1.0-beta.6`
 
 ## Archived Versions
 
 | Version | Released | Flarum | Source |
 |---|---|---|---|
-| — | — | — | — |
+| `0.1.0-beta.2` | 2015-10-08 | — | [Browse](https://github.com/flarchive/manelizzard-flarum-ext-notify/tree/archive/v0.1.0-beta.2) |
+| `0.1.1` | 2015-10-09 | — | [Browse](https://github.com/flarchive/manelizzard-flarum-ext-notify/tree/archive/v0.1.1) |
+| `0.2.0` | 2016-11-26 | `^0.1.0-beta.6` | [Browse](https://github.com/flarchive/manelizzard-flarum-ext-notify/tree/archive/v0.2.0) |
+| `0.2.1` | 2017-04-17 | `^0.1.0-beta.6` | [Browse](https://github.com/flarchive/manelizzard-flarum-ext-notify/tree/archive/v0.2.1) |
 
 Catalog entry: [packages/manelizzard-flarum-ext-notify.json](https://github.com/flarchive/archive-index/blob/main/packages/manelizzard-flarum-ext-notify.json)
 
